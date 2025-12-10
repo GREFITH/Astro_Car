@@ -1,0 +1,23 @@
+{
+  "target": "price(inr)",
+  "numeric_features": [
+    "year",
+    "mileage",
+    "engine_cc",
+    "power_hp"
+  ],
+  "categorical_features": [
+    "brand",
+    "model",
+    "fuel_type"
+  ],
+  "features": [
+    "year",
+    "mileage",
+    "engine_cc",
+    "power_hp",
+    "brand",
+    "model",
+    "fuel_type"
+  ]
+}
