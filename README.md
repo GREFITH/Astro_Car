@@ -11,3 +11,6 @@ license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+**Public Link**
+**Link:** 'https://720bbb3e366f2cf08d.gradio.live/'
